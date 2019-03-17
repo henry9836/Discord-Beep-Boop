@@ -2,7 +2,7 @@
 import discord
 import time
 
-TOKEN = 'NTU2Mzk5MjUxNDAwNDI1NDcy.D25K0Q.wTftiObfBIP8s_cH2-_o_DwKDzM'
+TOKEN = 'xxxxx'
 client = discord.Client()
 
 @client.event
