@@ -7,7 +7,6 @@ TOKEN = 'XXXXXXXXXXX'
 client = discord.Client()
 triggerchar = '!'
 
-
 #Game Data
 '''
 
