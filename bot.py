@@ -113,4 +113,7 @@ async def on_ready():
     print(client.user.id)
     print('------')
 
-client.run(TOKEN)
+try:
+    client.run(TOKEN)
+except:
+    print("Could not create the client token check that the TOKEN KEY is valid")
